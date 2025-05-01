@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <!-- Ana Renk (Koyu Turuncu - Burger teması) -->
+        <color name="mainColor">#FF6F00</color>
+
+        <!-- Arka Plan Rengi -->
+        <color name="backgroundColor">#FFF8E1</color>
+
+        <!-- Metin Renkleri -->
+        <color name="textColor1">#FFFFFF</color> <!-- Açık metinler için -->
+        <color name="textColor2">#5D4037</color> <!-- Açık kahverengi -->
+
+        <!-- Vurgulu Buton Rengi -->
+        <color name="accentColor">#D84315</color>
+
+        <!-- Malzeme Chip Kenarlıkları için -->
+        <color name="chipBorderColor">#FFCC80</color>
+
+        <!-- Gölge / Nötr tonlar -->
+        <color name="neutralColor">#BCAAA4</color>
+
+        <!-- Test için kullanılabilecek geçici renkler -->
+        <color name="red">#F44336</color>
+        <color name="green">#4CAF50</color>
+        <color name="blue">#2196F3</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
