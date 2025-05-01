@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hamburger</string>
+    <string name="hamburgerAciklama">Çift katlı dana burger, taze marul, cheddar ve çıtır bacon ile servis edilir.</string>
+    <string name="teslimatBaslik">Teslimat Süresi</string>
+    <string name="teslimatSure">25-35 dk</string>
+    <string name="fiyatYazi">79₺</string>
+    <string name="buttonYazi">Sipariş Ver</string>
+
+</resources
